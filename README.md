@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @H3xw4r3
+- 👋 Hi, I am Prosper
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning how computers work
 - 💞️ I’m looking to collaborate on python projects
